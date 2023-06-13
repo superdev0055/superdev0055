@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello , Everyone!!!</h1>
 <h3 align="center">A Full-Stack Developer (Backend Heavy)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suerdev0055&label=Profile%20views&color=0e75b6&style=flat" alt="suerdev0055" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suerdev0055" alt="suerdev0055" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1IWuXbJYT0P_osXeX_JsfbiLJu_8jEIBh/view](https://drive.google.com/file/d/1IWuXbJYT0P_osXeX_JsfbiLJu_8jEIBh/view)
@@ -21,6 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suerdev0055&show_icons=true&title_color=00ff04&text_color=001df5&bg_color=00aaff&locale=en&layout=compact" alt="suerdev0055" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suerdev0055&show_icons=true&locale=en" alt="suerdev0055" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suerdev0055&" alt="suerdev0055" /></p>
 
